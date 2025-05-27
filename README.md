@@ -29,7 +29,7 @@ The ml-25m dataset captures user activity on [MovieLens](https://movielens.org/)
     - User IDs are anonymized and consistent across `ratings.csv` and `tags.csv`.
     - Movie IDs are consistent across `ratings.csv`, `tags.csv`, `movies.csv`, and `links.csv`.
 
-> To download the data, you can access the `data` folder or download it from the following link: [here](https://grouplens.org/datasets/movielens/25m/)
+> **To download the data, you can access the `data` folder or download it from the following link: [here](https://grouplens.org/datasets/movielens/25m/)**
 
 ## Project Structure
 
