@@ -58,7 +58,7 @@ After performing the **`git add .`** command, the **`git commit`** message shoul
 
 **Example:**
     
-    git commit -m "baseline_SVD/dicover_data.ipynb - read and visualize original data"
+    git commit -m "baseline_SVD/discover_data.ipynb - read and visualize original data"
 
 Task description should provide enough information for other members to understand what was updated or changed, e.g., fixing bugs, adding features, refactoring code.
 
