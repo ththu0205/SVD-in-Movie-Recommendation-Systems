@@ -2,9 +2,13 @@ data/
 
 surprise/
 
+cache_profiles/
+
 content_based_model.ipynb
 CB_test.ipynb
 CB_test cosine.ipynb
+ridge_user_profiles.pkl
+CB_test cosine_final.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
